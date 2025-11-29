@@ -282,19 +282,6 @@ Setiap apotek dapat memiliki banyak obat, dan setiap obat dimiliki oleh satu apo
 
 ---
 
-## 📸 Screenshot
-
-### Dashboard - Data Apotek
-![Data Apotek](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=Data+Apotek+Screenshot)
-
-### Detail Apotek & Daftar Obat
-![Detail Apotek](https://via.placeholder.com/800x400/EC4899/FFFFFF?text=Detail+Apotek+Screenshot)
-
-### Form Tambah Apotek
-![Tambah Apotek](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Form+Tambah+Apotek)
-
----
-
 ## 📞 Dukungan
 
 Jika Anda memiliki pertanyaan atau menemukan bug, jangan ragu untuk menghubungi:
