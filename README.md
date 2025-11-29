@@ -1,4 +1,4 @@
-# 💊 Apotek Management System
+# Apotek Management System
 
 <div align="center">
 
