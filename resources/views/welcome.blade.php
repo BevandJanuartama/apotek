@@ -363,8 +363,8 @@
                 Laravel
             </div>
             <nav>
-                <a href="/login">Log in</a>
-                <a href="/register">Register</a>
+                <a href="/apotek">Apotek</a>
+                <a href="/obat">Obat</a>
             </nav>
         </header>
 
